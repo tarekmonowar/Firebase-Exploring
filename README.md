@@ -1,12 +1,41 @@
-# React + Vite
+# 🔥 My Firebase App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React + Vite authentication app using Firebase. This project supports
+user registration, login, social sign-in (Google, Facebook, GitHub), profile
+updates, and more.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Firebase Authentication (Email/Password, Google, Facebook, GitHub)
+- Protected routes
+- User profile update (name, password, profile picture)
+- Authentication state management using Context API
+- Responsive and modern UI using Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🚀 Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (with Vite)
+- Firebase Auth
+- Tailwind CSS
+- React Router DOM
+
+## 📸 Screenshots
+
+### 🔐 Registration Page
+
+![Register](./fire1.png)
+
+### 👤 Profile Page
+
+![Profile](./fire2.png)
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/tarekmonowar/Firebase-Exploring.git
+cd my-firebase-app
+```

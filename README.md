@@ -23,11 +23,11 @@ updates, and more.
 
 ### 🔐 Registration Page
 
-![Register](./fire1.png)
+![Register](./public/fire1.png)
 
 ### 👤 Profile Page
 
-![Profile](./fire2.png)
+![Profile](./public/fire2.png)
 
 ---
 
